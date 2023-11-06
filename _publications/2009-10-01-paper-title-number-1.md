@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Bootless Application of Greedy Re-ranking Algorithms in Fair Neural Team Formation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+permalink: /publication/bootless-application
+date: 2023-7-15
+venue: 'ECIR-BIAS'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-37249-0_9'
+citation: 'Loghmani, H., Fani, H. (2023). Bootless Application of Greedy Re-ranking Algorithms in Fair Neural Team Formation. BIAS 2023. Communications in Computer and Information Science, vol 1840. Springer, Cham. https://doi.org/10.1007/978-3-031-37249-0_9'
+---Team formation aims to automate forming teams of experts who can successfully solve difficult tasks, which have firsthand effects on creating organizational performance. While existing neural team formation methods are able to efficiently analyze massive collections of experts to form effective collaborative teams, they largely ignore the fairness in recommended teams of experts. Fairness breeds innovation and increases teams’ success by enabling a stronger sense of community, reducing conflict, and stimulating more creative thinking. In this paper, we study the application of state of-the-art deterministic greedy re-ranking algorithms to mitigate the potential popularity bias in the neural team formation models based on demographic parity. Our experiments show that, first, neural team formation models are biased toward popular experts. Second, although deterministic re-ranking algorithms mitigate popularity bias substantially, they severely hurt the efficacy of teams. The code to reproduce the experiments reported in this paper is available at [Adila's Repository](https://github.com/fani-lab/Adila/tree/bias23)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-37249-0_9)
