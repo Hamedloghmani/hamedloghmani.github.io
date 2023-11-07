@@ -20,4 +20,4 @@ Research Interests
 ======
 Responsible AI, Algorithmic Fairness, Machine Learning
 
-* Please find the full version of CV [here](https://github.com/Hamedloghmani/hamedloghmani.github.io/blob/master/files/HamedLoghmani_Resume_August2023.pdf)
+* Please find the full version of CV [here](https://github.com/Hamedloghmani/hamedloghmani.github.io/blob/2d99a1327eb34b36cb09de37d2a6e7ce43497c3e/files/HamedLoghmani_Resume_August2023.pdf)
