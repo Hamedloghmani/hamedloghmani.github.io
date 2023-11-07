@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Engineering, Chamran University of Ahvaz, Iran  2020
-* M.Sc. in Bioinformatics, Amirkabir University of Technology, Tehran, Iran  2022 (Withdrawn)
 * M.Sc. in Computer Science: AI Stream, University of Windsor, Canada  2023 (Expected)
+* M.Sc. in Bioinformatics, Amirkabir University of Technology, Tehran, Iran  2022 (Withdrawn)
+* B.Sc. in Computer Engineering, Chamran University of Ahvaz, Iran  2020
+
 
 Research Interests
 ======
